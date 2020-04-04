@@ -9,3 +9,5 @@ Here is the NY Times Github repo: **https://github.com/nytimes/covid-19-data**
 ## Notebook
 [Here is the demo Notebook with NY Times dataset](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/NYTCovid-test.ipynb)
 
+![image-1](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/NYT-Covid-collage.png)
+
