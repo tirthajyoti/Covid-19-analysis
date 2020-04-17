@@ -11,6 +11,10 @@ class SEIR:
                  params_=[0.2,1.75,0.5,0.9]):
         """
         Initializes and sets the initial lists and parameters
+        Arguments:
+                init_vals: Fractions of population in the S, E, I, and R categories
+                params_: Dynamical parameters - alpha, beta, gamma, and rho.
+                Here the last parameter 'rho' models social distancing factor.
         """
         # Initial values
         self.s0 = init_vals[0]
