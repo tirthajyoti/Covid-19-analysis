@@ -8,6 +8,9 @@ Here is the NY Times Github repo: **https://github.com/nytimes/covid-19-data**
 ### Notebook
 [Here is the demo Notebook with NY Times dataset](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/NYTCovid-test.ipynb)
 
+### Medium article
+[Here is my Medium article about it](https://towardsdatascience.com/analyze-ny-times-covid-19-dataset-86c802164210)
+
 ![image-1](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/NYT-Covid-collage.png)
 
 ---
@@ -19,5 +22,8 @@ In this demo, we will show how to build such a demo in Python, following a simpl
 
 ### Notebook
 [Here is the demo notebook for the SEIR modeling](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/SEIR-demo.ipynb)
+
+### Medium article
+[Here is my Medium article about it](https://towardsdatascience.com/simple-modeling-of-flattening-the-curve-and-lifting-lockdown-1a774a248e68)
 
 ![SEIR-feature](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/SEIR-feature-image.png)
