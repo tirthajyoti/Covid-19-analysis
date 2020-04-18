@@ -24,6 +24,6 @@ In this demo, we will show how to build such a demo in Python, following a simpl
 [Here is the demo notebook for the SEIR modeling](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/SEIR-demo.ipynb)
 
 ### Medium article
-[Here is my Medium article about it](https://towardsdatascience.com/simple-modeling-of-flattening-the-curve-and-lifting-lockdown-1a774a248e68)
+Here is my Medium article about it: ***["Simple modeling of “flattening the curve” and “lifting lockdown”](https://towardsdatascience.com/simple-modeling-of-flattening-the-curve-and-lifting-lockdown-1a774a248e68)***
 
 ![SEIR-feature](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/SEIR-feature-image.png)
