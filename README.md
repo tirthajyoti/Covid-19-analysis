@@ -19,3 +19,5 @@ In this demo, we will show how to build such a demo in Python, following a simpl
 
 ### Notebook
 [Here is the demo notebook for the SEIR modeling](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/SEIR-demo.ipynb)
+
+![SEIR-feature](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/SEIR-feature-image.png)
