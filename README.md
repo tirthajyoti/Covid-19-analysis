@@ -9,7 +9,7 @@ Here is the NY Times Github repo: **https://github.com/nytimes/covid-19-data**
 [Here is the demo Notebook with NY Times dataset](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/NYTCovid-test.ipynb)
 
 ### Medium article
-[Here is my Medium article about it](https://towardsdatascience.com/analyze-ny-times-covid-19-dataset-86c802164210)
+Here is my Medium article about it: ***[Analyze NY Times Covid-19 Dataset](https://towardsdatascience.com/analyze-ny-times-covid-19-dataset-86c802164210)***
 
 ![image-1](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/NYT-Covid-collage.png)
 
